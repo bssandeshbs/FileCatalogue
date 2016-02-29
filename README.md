@@ -1,6 +1,5 @@
 # FileCatalogue
 
-Purpose:
 This project analyzes the directory structure on the local machine, looking for duplicate file names and searching for text in specified files. The C++ standard libraries provide a rich set of containers to support structuring data for this analysis. However, there is a surprising omission in the standard libraries – there is no support for managing directory information. For that you are encouraged to use a FileSystem facility you will find on the college server1.
 
 Requirements:
